@@ -17,6 +17,6 @@ console.log(value)
   // console.log("b is  = " ,b);
  // console.log("c is  = ",c);
   
- console.log(2=== 2 ) 
+ console.log(     2=== 2 ) 
   
  
